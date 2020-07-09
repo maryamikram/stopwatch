@@ -1,0 +1,51 @@
+body{
+    text-align: center;
+    background-color: black;
+    color: white;
+}
+
+
+
+.heading{
+    background-color: teal;
+    color: tan;
+    height: 90px;
+    padding-top: 10px;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 70px;
+    font-weight: 200;
+    border-radius: 35px;
+}
+
+h2{
+    display: inline-block;
+    width: 200px;
+    height: 50px;
+    background-color: white;
+    color: black;
+    padding-top: 10px;
+    font-size: 35px;
+    
+}
+button{
+    width: 200px;
+    height: 80px;
+    background-color: hotpink;
+    color: navajowhite;
+    padding-top: 8px;
+    font-family: monospace;
+    font-size: 40px;
+    border-radius: 30px;
+    cursor: pointer;    
+}
+
+.h2{
+    background-color: hotpink !important;
+    color: navajowhite !important;
+    height: 40px;
+}
+
+button:hover{
+    background-color: skyblue;
+    color: slategray;
+}
